@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338285804551",
+    "firebase_url": "https://nowgram-de460.firebaseio.com",
+    "project_id": "nowgram-de460",
+    "storage_bucket": "nowgram-de460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338285804551:android:0313cfe388f837ee",
+        "android_client_info": {
+          "package_name": "com.dinga.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338285804551-d51h71qgpqjd3feteo24tk1m6n70k3ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinga.instagramclone",
+            "certificate_hash": "a7d92f39067fa809ffc626e27f150e660aa1a1f0"
+          }
+        },
+        {
+          "client_id": "338285804551-t5sb5ha7b349k4o0qusb3anb02h2ufsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqutZ0uCLufFVibbpq3w9rMAxepr8fMvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338285804551-t5sb5ha7b349k4o0qusb3anb02h2ufsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
